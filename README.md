@@ -19,6 +19,16 @@
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
 
+&#8860; &nbsp; **Tommaso Strada** 
+
+- *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
+- *Background*: Bachelor degree in Economics and Business Administration at Università degli Studi di Milano-Bicocca (UniMiB).
+<br>
+
+<p align = "center">
+  <a href = "https://github.com/TStrada"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
+</p>
+
 &#8860; &nbsp; **Emanuela Elli**
 
 - *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
