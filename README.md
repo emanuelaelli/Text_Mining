@@ -51,7 +51,7 @@ You can find our presentation in the <a href="https://github.com/emanuelaelli/Te
 
 <p align = "center">
 <a href = "https://linkedin.com/in/TommasoStrada"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/Linkedin_logo.png" width = "2.3%"></a>
-  <a href = "https://github.com/TStrada"><img src="https://github.com/emanuelaelli/emanuelaelli/GitHub_image.png" width = "2.5%"></a>
+  <a href = "https://github.com/TStrada"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/GitHub_logo.png" width = "2.5%"></a>
 </p>
 
 &#8860; &nbsp; **Federica Madon**
@@ -61,7 +61,7 @@ You can find our presentation in the <a href="https://github.com/emanuelaelli/Te
 <br>
 
 <p align = "center">
-  <a href = "https://github.com/f-madon"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/GitHub_image.png" width = "2.5%"></a>
+  <a href = "https://github.com/f-madon"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/GitHub_logo.png" width = "2.5%"></a>
 </p>
 
 &#8860; &nbsp; **Emanuela Elli**
@@ -72,7 +72,7 @@ You can find our presentation in the <a href="https://github.com/emanuelaelli/Te
 
 <p align = "center">
 <a href = "https://www.linkedin.com/in/emanuela-elli-82137b206/"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/Linkedin_logo.png" width = "2.3%"></a>
-  <a href = "https://github.com/emanuelaelli"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/GitHub_image.png" width = "2.5%"></a>
+  <a href = "https://github.com/emanuelaelli"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/GitHub_logo.png" width = "2.5%"></a>
 </p>
 
 <p align = "center">
