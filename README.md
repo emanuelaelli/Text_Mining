@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TStrada/Text_Mining/blob/main/Images/Hate-speech-Facebook-takes-down-post-calling-for-deporting-criminal-illegal-immigrants-750x450.jpg" width="60%">
+  <img src="https://github.com/emanuelaelli/Text_Mining/blob/main/Images/Hate-speech-Facebook-takes-down-post-calling-for-deporting-criminal-illegal-immigrants-750x450.jpg" width="60%">
 </p>
   <h6 align="center">a Text Mining Project</h6>
 <p align="center">
