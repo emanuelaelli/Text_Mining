@@ -33,11 +33,11 @@ The dataset consists of tweets that may use hate speech, offensive language or n
 <a name="data"></a>
 ## &#9741; &nbsp; Data
 The dataset is built on information gathered about CrowdFlower users, a platform for data enrichment with access to an online, on-demand workforce of millions of people who complete tasks that algorithms can’t alone.
-You can find the dataset used in the <a href="https://github.com/TStrada/Text_Mining/blob/main/Dataset/labeled_data.csv">Dataset</a> folder.<br>.
+You can find the dataset used in the <a href="https://github.com/emanuelaelli/Text_Mining/blob/main/Dataset/labeled_data.csv">Dataset</a> folder.<br>.
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
-You can find our presentation in the <a href="https://github.com/TStrada/Text_Mining/blob/main/">Report</a> and <a href="https://github.com/TStrada/Text_Mining/blob/main/">Slides</a> folder.<br>
+You can find our presentation in the <a href="https://github.com/emanuelaelli/Text_Mining/blob/main/">Report</a> and <a href="https://github.com/emanuelaelli/Text_Mining/blob/main/">Slides</a> folder.<br>
 
 
 <a name="aboutus"></a>
