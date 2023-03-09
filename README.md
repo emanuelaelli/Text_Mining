@@ -27,8 +27,7 @@ gensim == 4.2 (classification) 3.6.0 (clustering)
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
-The Hate Speech and Offensive Language dataset is the subject of this study’s text classification and text clustering sections.
-The dataset consists of tweets that may use hate speech, offensive language or neither.
+University project aimed at studying the Hate Speech and Offensive Language dataset, consisting of tweets containing statements of incitement to hatred, offensive language or neutral comments, in order to perform text classification and clustering tasks.
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
